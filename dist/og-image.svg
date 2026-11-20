@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101426"/>
+      <stop offset="1" stop-color="#08090d"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#657cff" stop-opacity=".36"/><stop offset="1" stop-color="#657cff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="950" cy="170" r="340" fill="url(#glow)"/>
+  <text x="100" y="270" fill="#f7f8ff" font-family="Arial,sans-serif" font-size="76" font-weight="700">Hardik Vaghela</text>
+  <text x="104" y="350" fill="#a9b5ff" font-family="Arial,sans-serif" font-size="31">Full Stack Developer · MERN Stack</text>
+  <text x="104" y="420" fill="#9ca0ae" font-family="Arial,sans-serif" font-size="22">Thoughtful interfaces. Reliable applications.</text>
+</svg>
